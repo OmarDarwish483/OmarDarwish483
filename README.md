@@ -104,10 +104,28 @@
 
 ## 🏆 Achievements
 
-- 🥇 Hackathon Winner (add details)
-- 🏅 Open Source Contributor
-- 📜 Certified in AI/Data Science (add certs)
-- 🏆 [Add more!]
+- 🚀 **Goldman Sachs Software Engineering Virtual Experience**  
+  Completed a job simulation as a Governance Analyst at Goldman Sachs on Forage.  
+  - 🔍 Identified outdated password hashing algorithms by cracking passwords using Hashcat.  
+  - ✍️ Wrote a memo proposing uplifts like extended password length and dedicated hashing algorithms to enhance security.  
+  [Explore the simulation](https://www.theforage.com/simulations/goldman-sachs/software-engineering-unei)
+
+- 🎮 **Electronic Arts Software Engineering Virtual Experience**  
+  Completed a job simulation as a Software Engineer at Electronic Arts on Forage.  
+  - 💡 Proposed a new feature for EA Sports College Football and documented it in a Feature Proposal.  
+  - 🛠️ Built a class diagram and created a C++ header file with class definitions.  
+  - ⚙️ Optimized the codebase by implementing an improved data structure and patching a bugfix.
+
+- 🔒 **Mastercard Cybersecurity Virtual Experience**  
+  Completed a job simulation as an Analyst on Mastercard’s Security Awareness Team on Forage.  
+  - 🕵️ Identified and reported security threats like phishing.  
+  - 📚 Analyzed business areas needing robust security training and implemented training courses and procedures.
+
+- 💻 **Designed a Full .exe Application**  
+  Developed a standalone desktop application using Python and Tkinter, packaged as an `.exe` using PyInstaller. Currently awaiting approval for distribution in the Microsoft Store, showcasing advanced automation and GUI development skills.
+
+- 🛡️ **Cisco Ethical Hacking Certification**  
+  Completed Cisco’s Ethical Hacking course, gaining expertise in identifying vulnerabilities, securing systems, and applying ethical hacking techniques to protect networks.
 
 ---
 

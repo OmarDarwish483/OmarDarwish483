@@ -1,3 +1,12 @@
+
+<!---->
+  [Optional] Add your own custom SVG/banner here!
+  You can create one with https://shields.io/ or https://svgwave.in/ or Canva, upload it to your repo, and link it below:
+  <p align="center">
+    <img src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png?raw=true" alt="Banner" width="100%" />
+  </p>
+--
+
 <!-- Animated Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=4FD1C5&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Omar+Hany+Darwish!;AI+%7C+Data+Science+%7C+Automation+%7C+Web+Dev+Enthusiast;Welcome+to+my+slapping+GitHub+profile!" alt="Typing SVG" />

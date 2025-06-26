@@ -3,7 +3,6 @@
   <p align="center">
     <img src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png?raw=true" alt="Banner" width="100%" />
   </p>
---
 
 <!-- Animated Typing SVG -->
 <p align="center">

@@ -108,7 +108,6 @@
   Completed a job simulation as a Governance Analyst at Goldman Sachs on Forage.  
   - 🔍 Identified outdated password hashing algorithms by cracking passwords using Hashcat.  
   - ✍️ Wrote a memo proposing uplifts like extended password length and dedicated hashing algorithms to enhance security.  
-  [Explore the simulation](https://www.theforage.com/simulations/goldman-sachs/software-engineering-unei)
 
 - 🎮 **Electronic Arts Software Engineering Virtual Experience**  
   Completed a job simulation as a Software Engineer at Electronic Arts on Forage.  
